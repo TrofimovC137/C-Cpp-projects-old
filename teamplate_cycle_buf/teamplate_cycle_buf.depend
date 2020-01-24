@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484901323 source:d:\ivan\c c++\teamplate_cycle_buf\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
