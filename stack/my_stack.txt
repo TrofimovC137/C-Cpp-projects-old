@@ -1,0 +1,4 @@
+M_stack
+	gcc-c stack.c
+	gcc-c main.c
+	gcc -0 my_stack stack.o main.o
