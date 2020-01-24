@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478947164 source:d:\ivan\c c++\binary_tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
